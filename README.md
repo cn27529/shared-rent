@@ -1,6 +1,5 @@
 # shared-rent
-shared rent(共租)app
- web, mob
+shared rent(共租)app web, mob
 
 # 源由
 發展共租, 如共租倉庫, 共租車位, 共租屋, 共租店面...等
